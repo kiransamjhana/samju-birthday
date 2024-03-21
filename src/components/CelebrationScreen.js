@@ -17,7 +17,7 @@ const CelebrationScreen = () => {
   };
 
   return (
-    <div className="container">
+    <div className="containernpm install --save react-lazyload">
       <h1 className="header">
         Let Get Ready EveryBody to Celebrate Samju BirthDay
       </h1>
